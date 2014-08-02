@@ -1,6 +1,7 @@
 ### Writing Simple REST Simulators using WireMock
 
 This is a simulator created for a REST service using WireMock. This mechanism can be used to test our client without availability of real server. 
+For more information refer [http://sandarenu.github.io/posts/easy_way_to_mock_rest_services/](http://sandarenu.github.io/posts/easy_way_to_mock_rest_services/)
 
 #### How to Test
 
