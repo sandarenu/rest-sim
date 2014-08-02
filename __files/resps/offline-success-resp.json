@@ -1,0 +1,13 @@
+{
+    "statusCode": "S1000",
+    "statusDescription": "Successfully authenticated.",
+    "results": {
+        "externalTrxId": "123456789",
+        "trxMode": "OFFLINE",
+        "paymentInstrument": "Bank A",
+        "accountId": "1234567890",
+        "amount": "15.50",
+        "currency" :"LKR",
+        "transactionTime":"2014-04-16T13:39:17.0+0530"
+    }
+}

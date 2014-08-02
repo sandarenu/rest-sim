@@ -1,0 +1,14 @@
+{
+    "statusCode": "S1000",
+    "statusDescription": "Successfullyauthenticated.",
+    "results": {
+        "msisdn": "6282112345600",
+        "externalTrxId": "123456789",
+        "trxMode": "OFFLINE",
+        "paymentInstrument": "Voucher",
+        "accountId": "MNF6282112345600",
+        "amount": "15.50",
+        "currency" :"IDR",
+        "transactionTime":"2014-04-16T13:39:17.0+0530"
+    }
+}

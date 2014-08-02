@@ -1,0 +1,17 @@
+{
+    "request": {
+        "method": "POST",
+        "url": "/charging-api/v1/authenticate",
+        "bodyPatterns": [
+            { "contains": "offline" }
+        ]
+    },
+    "response": {
+        "status": 200,
+        "bodyFileName": "resps/offline-success-resp.json",
+        "headers": {
+            "Content-Type": "application/json",
+            "Cache-Control": "no-cache"
+        }
+    }
+}
